@@ -1,2 +1,2 @@
-# coursera_js
+# course_js
 Online Course for Anjularjs
